@@ -2,6 +2,10 @@
 name = "macromusic"
 version = "0.1.0"
 authors = ["Pascal Hertleif <killercup@gmail.com>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/killercup/macromusic"
+documentation = "https://docs.rs/macromusic"
+description = "Just a quick thing to output some silly sounds"
 
 [lib]
 path = "lib.rs"
